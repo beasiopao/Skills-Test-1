@@ -1,0 +1,22 @@
+﻿Build started 3/13/2019 4:42:13 PM.
+     1>Project "E:\Skills_Test\Skills_Test_1\Skills_Test_1\Skills_Test_1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Skills_Test_1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Skills_Test_1.cpp
+         Skills_Test_1.cpp
+     1>e:\skills_test\skills_test_1\skills_test_1\skills_test_1.cpp(7): warning C4101: 'netincome3' : unreferenced local variable
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Skills_Test\Skills_Test_1\Debug\Skills_Test_1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Skills_Test_1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Skills_Test\Skills_Test_1\Debug\Skills_Test_1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Skills_Test\Skills_Test_1\Debug\Skills_Test_1.lib" /MACHINE:X86 Debug\Skills_Test_1.obj
+         LINK : E:\Skills_Test\Skills_Test_1\Debug\Skills_Test_1.exe not found or not built by the last incremental link; performing full link
+         Skills_Test_1.vcxproj -> E:\Skills_Test\Skills_Test_1\Debug\Skills_Test_1.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Skills_Test\Skills_Test_1\Debug\Skills_Test_1.exe;#1" /manifest Debug\Skills_Test_1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Skills_Test_1.unsuccessfulbuild".
+         Touching "Debug\Skills_Test_1.lastbuildstate".
+     1>Done Building Project "E:\Skills_Test\Skills_Test_1\Skills_Test_1\Skills_Test_1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.22
